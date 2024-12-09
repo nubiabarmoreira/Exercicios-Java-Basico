@@ -10,7 +10,6 @@ public class SomaDeNumeros{
         int number = scanner.nextInt();
 
         for (int i = 0; i <= number ; i++){
-            //System.out.println(i + "+");
             soma += i;
             System.out.println("A soma dos números 1 a " + number + " é igual a : " + soma);
         }
