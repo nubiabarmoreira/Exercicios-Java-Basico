@@ -27,4 +27,6 @@ public class Potencia {
     }
 }
 
+// Exercício realizado com base em pesquisas. Tive dificuldade em elaborar esse raciocínio.
+
 

@@ -19,3 +19,5 @@ public class InversaoDeNumero {
         sc.close();
     }
 }
+
+// Exercício realizado com base em pesquisas. Tive dificuldade em elaborar esse raciocínio.
